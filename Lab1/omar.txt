@@ -1,0 +1,11 @@
+
+Automobile
+Board
+Clock
+Fast 
+Laptop
+Mobile
+Motivate
+Procastinate
+Screen
+Window
