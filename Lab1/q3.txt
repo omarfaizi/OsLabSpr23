@@ -1,0 +1,80 @@
+.
+├── c
+├── Desktop
+├── Documents
+├── Downloads
+│   ├── 19k-1305 PPIT Class Activity.pdf
+│   ├── file1
+│   ├── google-chrome-stable_current_amd64.deb
+│   ├── network_project-main.zip
+│   └── SQopGx.docx
+├── file0
+├── Music
+├── name
+│   └── folder1
+│       └── folder2
+│           └── text1.txt
+├── OSLAB
+├── OSLAB01
+│   └── subDir
+│       └── subsubDir
+│           └── OSLAB2
+├── Pictures
+│   └── Screenshots
+│       ├── Screenshot from 2023-01-23 14-02-20.png
+│       ├── Screenshot from 2023-01-23 14-04-32.png
+│       ├── Screenshot from 2023-01-25 09-59-10.png
+│       ├── Screenshot from 2023-01-25 10-00-32.png
+│       ├── Screenshot from 2023-01-26 10-14-36.png
+│       ├── Screenshot from 2023-01-27 10-24-36.png
+│       └── Screenshot from 2023-01-27 10-38-17.png
+├── Public
+├── q3.txt
+├── screen2.log
+├── screen.log
+├── snap
+│   ├── code
+│   │   ├── 115
+│   │   ├── 117
+│   │   ├── common
+│   │   └── current -> 113
+│   ├── firefox
+│   │   ├── 2211
+│   │   ├── 2277
+│   │   ├── common
+│   │   └── current -> 2088
+│   ├── snapd-desktop-integration
+│   │   ├── 43
+│   │   │   ├── Desktop -> /home/student/Desktop
+│   │   │   ├── Documents -> /home/student/Documents
+│   │   │   ├── Downloads -> /home/student/Downloads
+│   │   │   ├── Music -> /home/student/Music
+│   │   │   ├── Pictures -> /home/student/Pictures
+│   │   │   ├── Public -> /home/student/Public
+│   │   │   ├── Templates -> /home/student/Templates
+│   │   │   └── Videos -> /home/student/Videos
+│   │   ├── 49
+│   │   │   ├── Desktop -> /home/student/Desktop
+│   │   │   ├── Documents -> /home/student/Documents
+│   │   │   ├── Downloads -> /home/student/Downloads
+│   │   │   ├── Music -> /home/student/Music
+│   │   │   ├── Pictures -> /home/student/Pictures
+│   │   │   ├── Public -> /home/student/Public
+│   │   │   ├── Templates -> /home/student/Templates
+│   │   │   └── Videos -> /home/student/Videos
+│   │   ├── common
+│   │   └── current -> 49
+│   └── snap-store
+│       ├── 599
+│       ├── 638
+│       ├── common
+│       └── current -> 638
+├── Templates
+├── test
+├── test10.log
+├── test2
+├── test.log
+├── test.txt
+└── Videos
+
+53 directories, 24 files
