@@ -21,4 +21,4 @@ file:///home/k2017572/lab11/Screenshot%20from%202023-05-14%2001-56-01.png![image
 file:///home/k2017572/lab11/Screenshot%20from%202023-05-14%2001-57-15.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/6d89e6d6-cde9-474e-b406-90fc43571145)
 file:///home/k2017572/lab11/Screenshot%20from%202023-05-14%2001-57-21.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/8905cfc7-7ab4-42c9-9b6c-9086f6adffee)
 file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-05-14%2002-38-09.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/965ed8c4-62e5-46dd-a196-8854251c5ec8)
-file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-05-14%2002-38-09.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/c22a5d62-dcb5-4337-b12b-689bba1000aa)
+file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-05-14%2002-38-37.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/aae6b74b-8e0b-46b3-b4bc-036db6c31392)
