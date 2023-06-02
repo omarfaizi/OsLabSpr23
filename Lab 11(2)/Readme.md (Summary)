@@ -1,1 +1,20 @@
-
+This manual provides a step by step guide to installing a Squid proxy server on Linux,
+along with it it teaches us how to secure a system, configure a firewall and implement 
+best security practices. The manual introduces us to squid, this is used to improve network
+performance and enforce access control policies. 
+The configuration section covers important changes to the main Squid configuration file, 
+such as modifying the default port and creating a blocklist for restricted websites. 
+It also explains how to restart Squid after making changes.
+The second part of the manual focuses on Linux hardening and security. It emphasizes disabling unnecessary services, 
+keeping the system updated with security patches, 
+and implementing strong password policies. It provides specific commands for disabling services, 
+configuring automatic updates using tools like 'unattended-upgrades', and updating the kernel.
+Next, the manual explains how to configure and use a firewall to control network traffic. It mentions different firewall options like 
+iptables, ufw, and firewalld, and provides instructions for downloading and configuring nftables. It covers the creation of firewall rules, 
+saving the configuration file, and enabling nftables at boot.
+The manual concludes with instructions on configuring file system permissions to restrict access to sensitive files and directories. 
+It explains concepts like ownership, group permissions, and the use of access control lists (ACLs). 
+It also highlights the importance of regularly reviewing and updating permissions.
+Overall, this manual serves as a good guide to setting up a squid proxy server, hardening a Linux system, implementing a firewall, 
+and following security best practices. By following the provided steps and commands, 
+users can build and maintain secure Linux systems critical for modern computing environments.
