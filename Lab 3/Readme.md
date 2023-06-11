@@ -1,4 +1,9 @@
 Install postfix
+file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-06-11%2011-12-14.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/b00f6a75-9180-4a6b-ac63-4046339e6c19)
+file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-06-11%2011-14-05.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/2d7625db-e173-49d2-a8d2-c70ab42dd930)
+
+
+
 file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-06-10%2006-43-44.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/ec9d6aca-c359-41da-bf1a-0b2d40014988)
 Fill the necessary details
 file:///home/k2017572/Pictures/Screenshots/Screenshot%20from%202023-06-11%2009-20-21.png![image](https://github.com/omarfaizi/OsLabSpr23/assets/123714746/0e25b70c-7b48-4c62-b553-b478c1339c42)
